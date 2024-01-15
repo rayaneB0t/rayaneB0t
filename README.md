@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I’m Rayane 👋
+* 👀 I’m interested in AI and Data Science
+* 🌱 I currently finish my master in AI (MSc program at Heriot-Watt University)
+* 💞️ I’m looking for full-time opportunities since I finish on December 2023
+* 📫 How to reach me: rayanetarkany.2@gmail.com
+* Linkedin: www.linkedin.com/in/rayane-tarkany
 
 <!--
 **rayaneB0t/rayaneB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
