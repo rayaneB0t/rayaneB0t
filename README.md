@@ -3,7 +3,8 @@
 * 🌱 I currently finish my master in AI (MSc program at Heriot-Watt University)
 * 💞️ I’m looking for full-time opportunities since I finish on December 2023
 * 📫 How to reach me: rayanetarkany.2@gmail.com
-* Linkedin: www.linkedin.com/in/rayane-tarkany
+* 👉 Linkedin: www.linkedin.com/in/rayane-tarkany
+* 📁 Portfolio Website: https://rayaneb0t.github.io
 
 <!--
 **rayaneB0t/rayaneB0t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
